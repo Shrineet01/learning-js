@@ -1,6 +1,3 @@
-
-
-
 if(true) {
     let a = 10
     const b = 20 // iske andar likha hua rehta hai block scope aur uske bahar likha hua hota hai global scope
