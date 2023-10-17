@@ -9,9 +9,12 @@ const myNums = [1, 2, 3]
 // const myTotal = myNums.reduce( (acc,currVal) => {
 //     return acc + currVal
 // }, 0);
-
+log
 // console.log(myTotal);
-
+for (let index = 0; index < array.length; index++) {
+    const element = array[index];
+    
+}
 
 const courses = [
     {
